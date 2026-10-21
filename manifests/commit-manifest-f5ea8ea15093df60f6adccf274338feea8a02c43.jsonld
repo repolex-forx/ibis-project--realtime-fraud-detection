@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/ibis-project/realtime-fraud-detection/commit/f5ea8ea15093df60f6adccf274338feea8a02c43",
+  "@type": "git:Commit",
+  "git:hexsha": "f5ea8ea15093df60f6adccf274338feea8a02c43",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/ibis-project/realtime-fraud-detection"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/f5ea8ea15093df60f6adccf274338feea8a02c43.nq.gz",
+      "repolex:graphFileSize": 1479
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 3297
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 416
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-21T20:05:52.345935+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
