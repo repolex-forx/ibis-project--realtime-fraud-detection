@@ -1,0 +1,11 @@
+{
+  "org": "ibis-project",
+  "repo": "realtime-fraud-detection",
+  "versions": [
+    {
+      "commit": "f5ea8ea15093df60f6adccf274338feea8a02c43",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:07:51.580654+00:00"
+    }
+  ]
+}
