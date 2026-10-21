@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ibis-project/realtime-fraud-detection/commit/f5ea8ea15093df60f6adccf274338feea8a02c43",
       "git:hexsha": "f5ea8ea15093df60f6adccf274338feea8a02c43",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
